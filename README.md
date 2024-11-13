@@ -1,4 +1,3 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
 // Blynk IOT Smart Plant Monitoring System
 
 /* Connections
@@ -157,6 +156,3 @@ void loop() {
   Blynk.run();  // Run the Blynk library
   timer.run();  // Run the Blynk timer
 }
-
-
-
